@@ -1,6 +1,6 @@
 ################################
 ##                            ##
-##  See 'wol_test3.py' first  ##
+##    See 'wolfill.py' first  ##
 ##                            ##
 ## Allwine and Whiteman, 1994 ##
 ##  Quantifying wind run and  ##
